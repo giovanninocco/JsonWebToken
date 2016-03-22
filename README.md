@@ -3,17 +3,14 @@ CSharp-Project
 
 C# project
 
-By: Yusuf Shakeel
+By: Giovanni Emanuele Nocco
 
-Date: 12 April 2014 Saturday
+Date: 22 March 2016 Tuesday
 
-[facebook.com/yusufshakeel](https://www.facebook.com/yusufshakeel)
 
-[youtube.com/yusufshakeel](https://www.youtube.com/yusufshakeel)
+[github.com/giovanninocco](https://www.github.com/giovanninocco)
 
-[github.com/yusufshakeel](https://www.github.com/yusufshakeel)
-
-[plus.google.com/+YusufShakeel](https://plus.google.com/+YusufShakeel/posts)
+[plus.google.com/116491561034403799469](https://plus.google.com/116491561034403799469)
 
 
 
@@ -21,7 +18,7 @@ Date: 12 April 2014 Saturday
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Yusuf Shakeel
+Copyright (c) 2016 Giovanni Emanuele Nocco
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
